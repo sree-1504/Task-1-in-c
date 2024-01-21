@@ -12,7 +12,7 @@ int main()
         printf("ENTER THE PHONE NUMBER OF THE USER");
         scanf("%s",&c);
         printf("NAME:%s\n AGE:%d\n",a,b);
-	printf("PHONE NUMBER:%s",c);
+	printf("MOBILE NUMBER:%s",c);
 
 		return 0;
 }
